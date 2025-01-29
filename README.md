@@ -24,3 +24,11 @@
   
 ## Video Demo  
 🎥 Watch the **[Beauty Salon Demo Video](https://github.com/anisa-walida/Beauty-Salon/blob/main/demo.mp4)** to see the virtual salon in action!
+
+### 🖼️ Screenshot  
+![Screenshot (349)](https://github.com/anisa-walida/Beauty-Salon/blob/main/ss/Screenshot%20(349).png)
+![Screenshot (349)](https://github.com/anisa-walida/Beauty-Salon/blob/main/ss/Screenshot%20(350).png)
+![Screenshot (349)](https://github.com/anisa-walida/Beauty-Salon/blob/main/ss/Screenshot%20(351).png)
+![Screenshot (349)](https://github.com/anisa-walida/Beauty-Salon/blob/main/ss/Screenshot%20(352).png)
+![Screenshot (349)](https://github.com/anisa-walida/Beauty-Salon/blob/main/ss/Screenshot%20(353).png)
+
