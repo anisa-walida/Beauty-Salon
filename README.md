@@ -22,3 +22,5 @@
    cd Beauty-Salon
 2. Add all the images(1-5) in a single image file before running the file.
   
+## Video Demo  
+🎥 Watch the **[Beauty Salon Demo Video](https://github.com/anisa-walida/Beauty-Salon/blob/main/demo.mp4)** to see the virtual salon in action!
