@@ -12,8 +12,8 @@
 
 ## Technologies Used  
 🔹 **Programming Language:** C++  
-🔹 **Graphics Library:** OpenGL / GLUT  
-🔹 **Tools:** Visual Studio, Blender (for 3D modeling)  
+🔹 **Graphics Library:** OpenGL / GLFW  
+🔹 **Tools:** Visual Studio 
 
 ## Installation & Usage  
 1. **Clone the Repository**  
